@@ -17,7 +17,7 @@ public class MsProductServiceApplication {
     @Bean
     public OpenAPI customOpenAPI() {
         return new OpenAPI().info(new Info()
-                .title("OPEN API MICROSERVICIO CATÁLOGO")
+                .title("OPEN API MICROSERVICIO PRODUCTO")
                 .version("0.0.1")
                 .description("servicios web catálogo")
                 .termsOfService("http:// swagger.io/terms")
