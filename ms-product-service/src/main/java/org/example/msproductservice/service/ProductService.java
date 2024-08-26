@@ -1,7 +1,8 @@
-package com.example.mscatalogo.service;
+package org.example.msproductservice.service;
 
 
-import com.example.mscatalogo.entity.Product;
+import org.example.msproductservice.entity.Product;
+
 import java.util.List;
 import java.util.Optional;
 
