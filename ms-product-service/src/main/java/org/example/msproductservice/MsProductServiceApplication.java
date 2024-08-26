@@ -2,6 +2,7 @@ package org.example.msproductservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class MsProductServiceApplication {
@@ -10,4 +11,7 @@ public class MsProductServiceApplication {
         SpringApplication.run(MsProductServiceApplication.class, args);
     }
 
+
+
 }
+

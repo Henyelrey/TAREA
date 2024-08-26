@@ -1,4 +1,4 @@
-package org.example.msproductservice.controller;
+package com.example.mscatalogo.controller;
 
 
 import com.example.mscatalogo.entity.Product;

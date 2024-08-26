@@ -1,4 +1,4 @@
-package org.example.msproductservice.entity;
+package com.example.mscatalogo.entity;
 
 
 import jakarta.persistence.Entity;

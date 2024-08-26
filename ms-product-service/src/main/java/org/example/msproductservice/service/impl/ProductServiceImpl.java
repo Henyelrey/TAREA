@@ -1,4 +1,4 @@
-package org.example.msproductservice.service.impl;
+package com.example.mscatalogo.service.impl;
 
 
 
