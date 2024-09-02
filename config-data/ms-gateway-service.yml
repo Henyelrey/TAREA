@@ -19,3 +19,7 @@ spring:
           uri: lb://ms-catalogo-service
           predicates:
             - Path=/category/**
+        - id: ms-product-service
+          uri: lb://ms-product-service
+          predicates:
+            - Path=/product/**
